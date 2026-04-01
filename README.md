@@ -81,7 +81,7 @@ The pipeline automatically falls back to raw rANS (no LZ step) when LZ pre-proce
 ### From source
 
 ```bash
-git clone https://github.com/your-org/axc
+git clone https://github.com/demdalat2004/axc
 cd axc
 cargo build --release
 # Binary at: target/release/axc
